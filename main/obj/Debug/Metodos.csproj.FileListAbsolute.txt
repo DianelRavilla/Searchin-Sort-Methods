@@ -1,0 +1,77 @@
+C:\Users\user\Source\Repos\Metodos\bin\Debug\Metodos.exe.config
+C:\Users\user\Source\Repos\Metodos\bin\Debug\Metodos.exe
+C:\Users\user\Source\Repos\Metodos\bin\Debug\Metodos.pdb
+C:\Users\user\Source\Repos\Metodos\obj\Debug\Metodos.csprojAssemblyReference.cache
+C:\Users\user\Source\Repos\Metodos\obj\Debug\Metodos.MetodosOrdenamiento.resources
+C:\Users\user\Source\Repos\Metodos\obj\Debug\Metodos.Properties.Resources.resources
+C:\Users\user\Source\Repos\Metodos\obj\Debug\Metodos.csproj.GenerateResource.cache
+C:\Users\user\Source\Repos\Metodos\obj\Debug\Metodos.csproj.CoreCompileInputs.cache
+C:\Users\user\Source\Repos\Metodos\obj\Debug\Metodos.exe
+C:\Users\user\Source\Repos\Metodos\obj\Debug\Metodos.pdb
+C:\Users\user\Documents\Usuario 3 - Carlos Villalba\EMI\4TO SEMESTRE\PROGRAMACION AVANZADA\MetodosOrdenamiento\Metodos\bin\Debug\Metodos.exe.config
+C:\Users\user\Documents\Usuario 3 - Carlos Villalba\EMI\4TO SEMESTRE\PROGRAMACION AVANZADA\MetodosOrdenamiento\Metodos\bin\Debug\Metodos.exe
+C:\Users\user\Documents\Usuario 3 - Carlos Villalba\EMI\4TO SEMESTRE\PROGRAMACION AVANZADA\MetodosOrdenamiento\Metodos\bin\Debug\Metodos.pdb
+C:\Users\user\Documents\Usuario 3 - Carlos Villalba\EMI\4TO SEMESTRE\PROGRAMACION AVANZADA\MetodosOrdenamiento\Metodos\obj\Debug\Metodos.csprojAssemblyReference.cache
+C:\Users\user\Documents\Usuario 3 - Carlos Villalba\EMI\4TO SEMESTRE\PROGRAMACION AVANZADA\MetodosOrdenamiento\Metodos\obj\Debug\Metodos.MetodosOrdenamiento.resources
+C:\Users\user\Documents\Usuario 3 - Carlos Villalba\EMI\4TO SEMESTRE\PROGRAMACION AVANZADA\MetodosOrdenamiento\Metodos\obj\Debug\Metodos.Properties.Resources.resources
+C:\Users\user\Documents\Usuario 3 - Carlos Villalba\EMI\4TO SEMESTRE\PROGRAMACION AVANZADA\MetodosOrdenamiento\Metodos\obj\Debug\Metodos.csproj.GenerateResource.cache
+C:\Users\user\Documents\Usuario 3 - Carlos Villalba\EMI\4TO SEMESTRE\PROGRAMACION AVANZADA\MetodosOrdenamiento\Metodos\obj\Debug\Metodos.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Usuario 3 - Carlos Villalba\EMI\4TO SEMESTRE\PROGRAMACION AVANZADA\MetodosOrdenamiento\Metodos\obj\Debug\Metodos.exe
+C:\Users\user\Documents\Usuario 3 - Carlos Villalba\EMI\4TO SEMESTRE\PROGRAMACION AVANZADA\MetodosOrdenamiento\Metodos\obj\Debug\Metodos.pdb
+C:\Users\MsCDV\Desktop\PROGRAMACION AVANZADA\MetodosOrdenamiento\Metodos\bin\Debug\Metodos.exe.config
+C:\Users\MsCDV\Desktop\PROGRAMACION AVANZADA\MetodosOrdenamiento\Metodos\bin\Debug\Metodos.exe
+C:\Users\MsCDV\Desktop\PROGRAMACION AVANZADA\MetodosOrdenamiento\Metodos\bin\Debug\Metodos.pdb
+C:\Users\MsCDV\Desktop\PROGRAMACION AVANZADA\MetodosOrdenamiento\Metodos\obj\Debug\Metodos.csprojAssemblyReference.cache
+C:\Users\MsCDV\Desktop\PROGRAMACION AVANZADA\MetodosOrdenamiento\Metodos\obj\Debug\Metodos.MetodosOrdenamiento.resources
+C:\Users\MsCDV\Desktop\PROGRAMACION AVANZADA\MetodosOrdenamiento\Metodos\obj\Debug\Metodos.Properties.Resources.resources
+C:\Users\MsCDV\Desktop\PROGRAMACION AVANZADA\MetodosOrdenamiento\Metodos\obj\Debug\Metodos.csproj.GenerateResource.cache
+C:\Users\MsCDV\Desktop\PROGRAMACION AVANZADA\MetodosOrdenamiento\Metodos\obj\Debug\Metodos.csproj.CoreCompileInputs.cache
+C:\Users\MsCDV\Desktop\PROGRAMACION AVANZADA\MetodosOrdenamiento\Metodos\obj\Debug\Metodos.exe
+C:\Users\MsCDV\Desktop\PROGRAMACION AVANZADA\MetodosOrdenamiento\Metodos\obj\Debug\Metodos.pdb
+C:\Users\Fernando\Desktop\PROGRAMACION AVANZADA\MetodosOrdenamiento\Metodos\bin\Debug\Metodos.exe.config
+C:\Users\Fernando\Desktop\PROGRAMACION AVANZADA\MetodosOrdenamiento\Metodos\bin\Debug\Metodos.exe
+C:\Users\Fernando\Desktop\PROGRAMACION AVANZADA\MetodosOrdenamiento\Metodos\bin\Debug\Metodos.pdb
+C:\Users\Fernando\Desktop\PROGRAMACION AVANZADA\MetodosOrdenamiento\Metodos\obj\Debug\Metodos.csprojAssemblyReference.cache
+C:\Users\Fernando\Desktop\PROGRAMACION AVANZADA\MetodosOrdenamiento\Metodos\obj\Debug\Metodos.MetodosOrdenamiento.resources
+C:\Users\Fernando\Desktop\PROGRAMACION AVANZADA\MetodosOrdenamiento\Metodos\obj\Debug\Metodos.Properties.Resources.resources
+C:\Users\Fernando\Desktop\PROGRAMACION AVANZADA\MetodosOrdenamiento\Metodos\obj\Debug\Metodos.csproj.GenerateResource.cache
+C:\Users\Fernando\Desktop\PROGRAMACION AVANZADA\MetodosOrdenamiento\Metodos\obj\Debug\Metodos.csproj.CoreCompileInputs.cache
+C:\Users\Fernando\Desktop\PROGRAMACION AVANZADA\MetodosOrdenamiento\Metodos\obj\Debug\Metodos.exe
+C:\Users\Fernando\Desktop\PROGRAMACION AVANZADA\MetodosOrdenamiento\Metodos\obj\Debug\Metodos.pdb
+C:\Users\MsCDV\Desktop\MetodosOrdenamiento\Metodos\Data\bin\Debug\Metodos.exe.config
+C:\Users\MsCDV\Desktop\MetodosOrdenamiento\Metodos\Data\bin\Debug\Metodos.exe
+C:\Users\MsCDV\Desktop\MetodosOrdenamiento\Metodos\Data\bin\Debug\Metodos.pdb
+C:\Users\MsCDV\Desktop\MetodosOrdenamiento\Metodos\Data\obj\Debug\Metodos.csprojAssemblyReference.cache
+C:\Users\MsCDV\Desktop\MetodosOrdenamiento\Metodos\Data\obj\Debug\Metodos.MetodosOrdenamiento.resources
+C:\Users\MsCDV\Desktop\MetodosOrdenamiento\Metodos\Data\obj\Debug\Metodos.Properties.Resources.resources
+C:\Users\MsCDV\Desktop\MetodosOrdenamiento\Metodos\Data\obj\Debug\Metodos.csproj.GenerateResource.cache
+C:\Users\MsCDV\Desktop\MetodosOrdenamiento\Metodos\Data\obj\Debug\Metodos.csproj.CoreCompileInputs.cache
+C:\Users\MsCDV\Desktop\MetodosOrdenamiento\Metodos\Data\obj\Debug\Metodos.exe
+C:\Users\MsCDV\Desktop\MetodosOrdenamiento\Metodos\Data\obj\Debug\Metodos.pdb
+C:\Users\user\Documents\Usuario 3 - Carlos Villalba\EMI\4TO SEMESTRE\PROGRAMACION AVANZADA\Proyectos\Proyecto #2 - Métodos de Ordenamiento\Metodos\Data\bin\Debug\Metodos.exe.config
+C:\Users\user\Documents\Usuario 3 - Carlos Villalba\EMI\4TO SEMESTRE\PROGRAMACION AVANZADA\Proyectos\Proyecto #2 - Métodos de Ordenamiento\Metodos\Data\bin\Debug\Metodos.exe
+C:\Users\user\Documents\Usuario 3 - Carlos Villalba\EMI\4TO SEMESTRE\PROGRAMACION AVANZADA\Proyectos\Proyecto #2 - Métodos de Ordenamiento\Metodos\Data\bin\Debug\Metodos.pdb
+C:\Users\user\Documents\Usuario 3 - Carlos Villalba\EMI\4TO SEMESTRE\PROGRAMACION AVANZADA\Proyectos\Proyecto #2 - Métodos de Ordenamiento\Metodos\Data\obj\Debug\Metodos.csprojAssemblyReference.cache
+C:\Users\user\Documents\Usuario 3 - Carlos Villalba\EMI\4TO SEMESTRE\PROGRAMACION AVANZADA\Proyectos\Proyecto #2 - Métodos de Ordenamiento\Metodos\Data\obj\Debug\Metodos.MetodosOrdenamiento.resources
+C:\Users\user\Documents\Usuario 3 - Carlos Villalba\EMI\4TO SEMESTRE\PROGRAMACION AVANZADA\Proyectos\Proyecto #2 - Métodos de Ordenamiento\Metodos\Data\obj\Debug\Metodos.Properties.Resources.resources
+C:\Users\user\Documents\Usuario 3 - Carlos Villalba\EMI\4TO SEMESTRE\PROGRAMACION AVANZADA\Proyectos\Proyecto #2 - Métodos de Ordenamiento\Metodos\Data\obj\Debug\Metodos.csproj.GenerateResource.cache
+C:\Users\user\Documents\Usuario 3 - Carlos Villalba\EMI\4TO SEMESTRE\PROGRAMACION AVANZADA\Proyectos\Proyecto #2 - Métodos de Ordenamiento\Metodos\Data\obj\Debug\Metodos.exe
+C:\Users\user\Documents\Usuario 3 - Carlos Villalba\EMI\4TO SEMESTRE\PROGRAMACION AVANZADA\Proyectos\Proyecto #2 - Métodos de Ordenamiento\Metodos\Data\obj\Debug\Metodos.pdb
+C:\Users\MsCDV\Desktop\Nueva carpeta\Proyectos\Proyecto #1 - Métodos de Ordenamiento\Metodos\Data\obj\Debug\Metodos.csprojAssemblyReference.cache
+C:\Users\MsCDV\Desktop\Nueva carpeta\Proyectos\Proyecto #1 - Métodos de Ordenamiento\Metodos\Data\obj\Debug\Metodos.MetodosOrdenamiento.resources
+C:\Users\MsCDV\Desktop\Nueva carpeta\Proyectos\Proyecto #1 - Métodos de Ordenamiento\Metodos\Data\obj\Debug\Metodos.Properties.Resources.resources
+C:\Users\MsCDV\Desktop\Nueva carpeta\Proyectos\Proyecto #1 - Métodos de Ordenamiento\Metodos\Data\obj\Debug\Metodos.csproj.GenerateResource.cache
+C:\Users\MsCDV\Desktop\Nueva carpeta\Proyectos\Proyecto #1 - Métodos de Ordenamiento\Metodos\Data\obj\Debug\Metodos.exe
+C:\Users\MsCDV\Desktop\Nueva carpeta\Proyectos\Proyecto #1 - Métodos de Ordenamiento\Metodos\Data\obj\Debug\Metodos.pdb
+C:\Users\MsCDV\Desktop\Nueva carpeta\Proyectos\Proyecto #1 - Métodos de Ordenamiento\Metodos\Data\bin\Debug\Metodos.exe.config
+C:\Users\MsCDV\Desktop\Nueva carpeta\Proyectos\Proyecto #1 - Métodos de Ordenamiento\Metodos\Data\bin\Debug\Metodos.exe
+C:\Users\MsCDV\Desktop\Nueva carpeta\Proyectos\Proyecto #1 - Métodos de Ordenamiento\Metodos\Data\bin\Debug\Metodos.pdb
+C:\Users\user\Documents\Usuario 3 - Carlos Villalba\EMI\4TO SEMESTRE\PROGRAMACION AVANZADA\PROYECTO FINAL\Proyectos\Proyecto #1 - Métodos de Ordenamiento\Metodos\Data\bin\Debug\Metodos.exe.config
+C:\Users\user\Documents\Usuario 3 - Carlos Villalba\EMI\4TO SEMESTRE\PROGRAMACION AVANZADA\PROYECTO FINAL\Proyectos\Proyecto #1 - Métodos de Ordenamiento\Metodos\Data\bin\Debug\Metodos.exe
+C:\Users\user\Documents\Usuario 3 - Carlos Villalba\EMI\4TO SEMESTRE\PROGRAMACION AVANZADA\PROYECTO FINAL\Proyectos\Proyecto #1 - Métodos de Ordenamiento\Metodos\Data\bin\Debug\Metodos.pdb
+C:\Users\user\Documents\Usuario 3 - Carlos Villalba\EMI\4TO SEMESTRE\PROGRAMACION AVANZADA\PROYECTO FINAL\Proyectos\Proyecto #1 - Métodos de Ordenamiento\Metodos\Data\obj\Debug\Metodos.csprojAssemblyReference.cache
+C:\Users\user\Documents\Usuario 3 - Carlos Villalba\EMI\4TO SEMESTRE\PROGRAMACION AVANZADA\PROYECTO FINAL\Proyectos\Proyecto #1 - Métodos de Ordenamiento\Metodos\Data\obj\Debug\Metodos.MetodosOrdenamiento.resources
+C:\Users\user\Documents\Usuario 3 - Carlos Villalba\EMI\4TO SEMESTRE\PROGRAMACION AVANZADA\PROYECTO FINAL\Proyectos\Proyecto #1 - Métodos de Ordenamiento\Metodos\Data\obj\Debug\Metodos.Properties.Resources.resources
+C:\Users\user\Documents\Usuario 3 - Carlos Villalba\EMI\4TO SEMESTRE\PROGRAMACION AVANZADA\PROYECTO FINAL\Proyectos\Proyecto #1 - Métodos de Ordenamiento\Metodos\Data\obj\Debug\Metodos.csproj.GenerateResource.cache
+C:\Users\user\Documents\Usuario 3 - Carlos Villalba\EMI\4TO SEMESTRE\PROGRAMACION AVANZADA\PROYECTO FINAL\Proyectos\Proyecto #1 - Métodos de Ordenamiento\Metodos\Data\obj\Debug\Metodos.exe
+C:\Users\user\Documents\Usuario 3 - Carlos Villalba\EMI\4TO SEMESTRE\PROGRAMACION AVANZADA\PROYECTO FINAL\Proyectos\Proyecto #1 - Métodos de Ordenamiento\Metodos\Data\obj\Debug\Metodos.pdb
